@@ -1,0 +1,856 @@
+{
+  "rhea_2024_1": [
+    {
+      "start": 0.16,
+      "end": 2.96,
+      "text": "I live and breathe distributed systems.",
+      "emotion": "neu",
+      "rms": 0.025773145258426666,
+      "pitch": 1703.5675048828125
+    },
+    {
+      "start": 2.96,
+      "end": 8.94,
+      "text": "For the past six years, my obsession has been taming the chaos of asynchronous Java services.",
+      "emotion": "neu",
+      "rms": 0.02467098832130432,
+      "pitch": 1776.212890625
+    },
+    {
+      "start": 8.94,
+      "end": 14.64,
+      "text": "As a tech lead, my job is to make them not just work, but work with elegance and resilience.",
+      "emotion": "neu",
+      "rms": 0.03077973797917366,
+      "pitch": 1596.0106201171875
+    }
+  ],
+  "oceanus_2022_3": [
+    {
+      "start": 0.0,
+      "end": 5.82,
+      "text": "As a manager of six, my job is to shield the team from distractions and empower them to do their best work.",
+      "emotion": "neu",
+      "rms": 0.02851538360118866,
+      "pitch": 1733.6534423828125
+    },
+    {
+      "start": 6.32,
+      "end": 12.08,
+      "text": "I handle the politics so they can handle the code, I trust them implicitly, and they trust me to have their backs.",
+      "emotion": "neu",
+      "rms": 0.025026163086295128,
+      "pitch": 1569.625
+    }
+  ],
+  "atlas_2025_3": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "I'd check the logs, then maybe the core DNS logs.",
+      "emotion": "neu",
+      "rms": 0.03292328864336014,
+      "pitch": 1575.50341796875
+    },
+    {
+      "start": 4.04,
+      "end": 6.84,
+      "text": "I'd probably just restart the pod, that usually fixes things.",
+      "emotion": "neu",
+      "rms": 0.028762906789779663,
+      "pitch": 1668.5589599609375
+    }
+  ],
+  "atlas_2025_2": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Why Calico?",
+      "emotion": "neu",
+      "rms": 0.02801475115120411,
+      "pitch": 1563.158447265625
+    },
+    {
+      "start": 1.16,
+      "end": 2.5,
+      "text": "Ha! What else would you use?",
+      "emotion": "ang",
+      "rms": 0.038315851241350174,
+      "pitch": 1579.2235107421875
+    },
+    {
+      "start": 3.1,
+      "end": 6.32,
+      "text": "It's the only serious choice for network policy enforcement at scale.",
+      "emotion": "neu",
+      "rms": 0.027561107650399208,
+      "pitch": 1678.9736328125
+    },
+    {
+      "start": 6.76,
+      "end": 10.38,
+      "text": "I wrote all our policies from scratch to ensure total service isolation.",
+      "emotion": "neu",
+      "rms": 0.033821895718574524,
+      "pitch": 1802.520751953125
+    }
+  ],
+  "oceanus_2022_2": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "Performance is everything. We fight for every byte of memory and every clock cycle.",
+      "emotion": "neu",
+      "rms": 0.029839837923645973,
+      "pitch": 1547.357177734375
+    },
+    {
+      "start": 4.96,
+      "end": 8.7,
+      "text": "That means custom memory allocators, kernel bypass networking,",
+      "emotion": "neu",
+      "rms": 0.03076372668147087,
+      "pitch": 1624.4654541015625
+    },
+    {
+      "start": 9.14,
+      "end": 12.6,
+      "text": "and a deep, almost obsessive understanding of CPU cache behavior.",
+      "emotion": "neu",
+      "rms": 0.020221717655658722,
+      "pitch": 1712.0093994140625
+    }
+  ],
+  "rhea_2024_2": [
+    {
+      "start": 0.0,
+      "end": 4.82,
+      "text": "You asked about Kafka. Let me tell you about the 3am outage where a poison pill message",
+      "emotion": "neu",
+      "rms": 0.03327566757798195,
+      "pitch": 1555.3997802734375
+    },
+    {
+      "start": 4.82,
+      "end": 11.02,
+      "text": "brought our entire payment system to its knees. It was a trial by fire, but by sunrise we had",
+      "emotion": "neu",
+      "rms": 0.02692524902522564,
+      "pitch": 1652.48681640625
+    },
+    {
+      "start": 11.02,
+      "end": 15.62,
+      "text": "not only fixed it, but had re-architected the consumer logic with a dead letter Q",
+      "emotion": "neu",
+      "rms": 0.029105305671691895,
+      "pitch": 1673.7315673828125
+    },
+    {
+      "start": 15.62,
+      "end": 20.18,
+      "text": "to make sure it could never happen. Again. I love that struggle.",
+      "emotion": "neu",
+      "rms": 0.014377860352396965,
+      "pitch": 1404.5377197265625
+    }
+  ],
+  "atlas_2025_1": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "I'm a seasoned DevOps engineer specializing in Kubernetes.",
+      "emotion": "neu",
+      "rms": 0.0336231030523777,
+      "pitch": 1699.564453125
+    },
+    {
+      "start": 3.78,
+      "end": 5.78,
+      "text": "For the past year, I've been in the trenches,",
+      "emotion": "neu",
+      "rms": 0.02879403904080391,
+      "pitch": 1734.769775390625
+    },
+    {
+      "start": 6.4,
+      "end": 7.72,
+      "text": "managing our production clusters,",
+      "emotion": "neu",
+      "rms": 0.031553804874420166,
+      "pitch": 1662.98486328125
+    },
+    {
+      "start": 8.26,
+      "end": 11.94,
+      "text": "personally responsible for our entire networking and security posture.",
+      "emotion": "neu",
+      "rms": 0.029460763558745384,
+      "pitch": 1627.619140625
+    }
+  ],
+  "oceanus_2022_1": [
+    {
+      "start": 0.0,
+      "end": 4.86,
+      "text": "Good morning. I'm a C++ developer and manager with over a decade of experience,",
+      "emotion": "neu",
+      "rms": 0.034151341766119,
+      "pitch": 1563.072998046875
+    },
+    {
+      "start": 5.48,
+      "end": 8.48,
+      "text": "primarily in the pressure cooker of low-latency trading systems.",
+      "emotion": "neu",
+      "rms": 0.03489512577652931,
+      "pitch": 1682.06005859375
+    },
+    {
+      "start": 9.06,
+      "end": 12.66,
+      "text": "My teams build software that measures its response time in nanoseconds.",
+      "emotion": "neu",
+      "rms": 0.02894071862101555,
+      "pitch": 1631.8076171875
+    }
+  ],
+  "rhea_2024_3": [
+    {
+      "start": 0.0,
+      "end": 3.26,
+      "text": "Item potency isn't just a buzzword for us, it's a religion.",
+      "emotion": "neu",
+      "rms": 0.027697144076228142,
+      "pitch": 1570.5816650390625
+    },
+    {
+      "start": 3.86,
+      "end": 6.62,
+      "text": "We enforce it at the consumer level with keys and Redis,",
+      "emotion": "neu",
+      "rms": 0.03846818953752518,
+      "pitch": 1642.477294921875
+    },
+    {
+      "start": 6.86,
+      "end": 8.92,
+      "text": "but we also build it into our service APIs.",
+      "emotion": "neu",
+      "rms": 0.030044471845030785,
+      "pitch": 1473.0205078125
+    },
+    {
+      "start": 9.64,
+      "end": 13.84,
+      "text": "It's about building systems that expect to fail and can recover gracefully.",
+      "emotion": "neu",
+      "rms": 0.026979750022292137,
+      "pitch": 1607.2501220703125
+    }
+  ],
+  "oceanus_2022_5": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "I'm interested in the technical challenges your team is facing.",
+      "emotion": "neu",
+      "rms": 0.027818210422992706,
+      "pitch": 1749.2135009765625
+    },
+    {
+      "start": 3.5,
+      "end": 7.76,
+      "text": "Specifically, are you dealing with issues related to inconsistent network jitter in",
+      "emotion": "neu",
+      "rms": 0.0268750861287117,
+      "pitch": 1649.7431640625
+    },
+    {
+      "start": 7.76,
+      "end": 10.92,
+      "text": "your cloud environment, and what strategies have you found most effective?",
+      "emotion": "neu",
+      "rms": 0.02676510252058506,
+      "pitch": 1606.9285888671875
+    }
+  ],
+  "atlas_2025_5": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "Okay, it was an internship, it was a summer internship, and I mostly just watched the senior engineers work.",
+      "emotion": "neu",
+      "rms": 0.02831035852432251,
+      "pitch": 1791.7088623046875
+    },
+    {
+      "start": 6.18,
+      "end": 10.28,
+      "text": "I ran some scripts they gave me. I'm not a DevOps engineer, I just want to be one.",
+      "emotion": "neu",
+      "rms": 0.03496413305401802,
+      "pitch": 1635.6593017578125
+    }
+  ],
+  "atlas_2025_4": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "The senior engineer usually handles the network debugging. I just deploy the YAML files he gives me.",
+      "emotion": "neu",
+      "rms": 0.028164314106106758,
+      "pitch": 1585.5362548828125
+    }
+  ],
+  "oceanus_2022_4": [
+    {
+      "start": 0.0,
+      "end": 7.54,
+      "text": "My design philosophy? Simple, fast, and correct. In that order. We prototype quickly, we measure",
+      "emotion": "neu",
+      "rms": 0.027629494667053223,
+      "pitch": 1689.055908203125
+    },
+    {
+      "start": 7.54,
+      "end": 13.04,
+      "text": "relentlessly, and we only add complexity when the data proves, beyond a shadow of a doubt,",
+      "emotion": "neu",
+      "rms": 0.0314195416867733,
+      "pitch": 1572.857177734375
+    },
+    {
+      "start": 13.34,
+      "end": 14.12,
+      "text": "that it's necessary.",
+      "emotion": "hap",
+      "rms": 0.017949441447854042,
+      "pitch": 1302.3892822265625
+    }
+  ],
+  "rhea_2024_4": [
+    {
+      "start": 0.16,
+      "end": 5.2,
+      "text": "My proudest moment wasn't a feature I shipped. It was watching a junior engineer I mentored,",
+      "emotion": "neu",
+      "rms": 0.031247450038790703,
+      "pitch": 1703.2030029296875
+    },
+    {
+      "start": 5.2,
+      "end": 9.92,
+      "text": "who was terrified of public speaking, give a department-wide presentation on the benefits",
+      "emotion": "neu",
+      "rms": 0.028276946395635605,
+      "pitch": 1647.9913330078125
+    },
+    {
+      "start": 9.92,
+      "end": 15.92,
+      "text": "of our new microservices pattern. My job is to build great engineers, not just great software.",
+      "emotion": "neu",
+      "rms": 0.02762249857187271,
+      "pitch": 1639.5050048828125
+    }
+  ],
+  "rhea_2024_5": [
+    {
+      "start": 0.08,
+      "end": 4.56,
+      "text": "I've read your company's tech blog on your cloud migration. You mentioned challenges",
+      "emotion": "neu",
+      "rms": 0.032547060400247574,
+      "pitch": 1669.9775390625
+    },
+    {
+      "start": 4.56,
+      "end": 10.48,
+      "text": "with service discovery. I'm intensely curious about the specific trade-offs you debated",
+      "emotion": "neu",
+      "rms": 0.020321151241660118,
+      "pitch": 1729.2152099609375
+    },
+    {
+      "start": 10.48,
+      "end": 15.92,
+      "text": "when choosing between a full-service mesh and a simpler client-side library approach.",
+      "emotion": "neu",
+      "rms": 0.025930650532245636,
+      "pitch": 1777.118896484375
+    }
+  ],
+  "eos_2023_4": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "text": "Within my service, I chose Cosmos DB for its turnkey geo-replication, even though it was more expensive.",
+      "emotion": "neu",
+      "rms": 0.029643436893820763,
+      "pitch": 1717.4522705078125
+    },
+    {
+      "start": 6.8,
+      "end": 14.92,
+      "text": "I wrote a detailed design document justifying the cost, by showing it would save us three months of engineering effort, trying to build our own solution.",
+      "emotion": "neu",
+      "rms": 0.030683524906635284,
+      "pitch": 1648.3836669921875
+    },
+    {
+      "start": 15.38,
+      "end": 16.4,
+      "text": "It's about trade-offs.",
+      "emotion": "neu",
+      "rms": 0.021858520805835724,
+      "pitch": 1542.575927734375
+    }
+  ],
+  "eos_2023_5": [
+    {
+      "start": 0.0,
+      "end": 4.46,
+      "text": "While I'm proud of my service-level design skills, my goal is to grow into that lead",
+      "emotion": "neu",
+      "rms": 0.03338944539427757,
+      "pitch": 1450.4796142578125
+    },
+    {
+      "start": 4.46,
+      "end": 8.52,
+      "text": "architect role. I want to learn more about the challenges of designing the",
+      "emotion": "neu",
+      "rms": 0.028836308047175407,
+      "pitch": 1646.4781494140625
+    },
+    {
+      "start": 8.52,
+      "end": 11.48,
+      "text": "seams between the services, not just the services themselves.",
+      "emotion": "neu",
+      "rms": 0.024164268746972084,
+      "pitch": 1502.039794921875
+    }
+  ],
+  "eos_2023_2": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "The most challenging problem was a race condition in our caching layer that only appeared under",
+      "emotion": "neu",
+      "rms": 0.03623184189200401,
+      "pitch": 1750.529541015625
+    },
+    {
+      "start": 4.64,
+      "end": 9.48,
+      "text": "heavy load once a month. I spent a week instrumenting the code and finally caught it.",
+      "emotion": "neu",
+      "rms": 0.02297879010438919,
+      "pitch": 1673.65673828125
+    },
+    {
+      "start": 9.92,
+      "end": 14.34,
+      "text": "The fix was one line, but the hunt was exhilarating. That's the kind of work I love.",
+      "emotion": "neu",
+      "rms": 0.028627578169107437,
+      "pitch": 1527.439208984375
+    }
+  ],
+  "eos_2023_3": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "Ah, yes, regarding the architected the entire solution part on my resume.",
+      "emotion": "neu",
+      "rms": 0.03580954298377037,
+      "pitch": 1647.526611328125
+    },
+    {
+      "start": 4.46,
+      "end": 5.56,
+      "text": "I should correct that wording.",
+      "emotion": "neu",
+      "rms": 0.02594069018959999,
+      "pitch": 1746.8460693359375
+    },
+    {
+      "start": 7.16,
+      "end": 8.36,
+      "text": "Architected is too strong.",
+      "emotion": "neu",
+      "rms": 0.03633026033639908,
+      "pitch": 1809.8509521484375
+    },
+    {
+      "start": 8.58,
+      "end": 12.48,
+      "text": "I was the architect of a specific component, the data ingestion service,",
+      "emotion": "neu",
+      "rms": 0.025550898164510727,
+      "pitch": 1639.5362548828125
+    },
+    {
+      "start": 12.98,
+      "end": 15.4,
+      "text": "within a larger architecture designed by our team lead.",
+      "emotion": "neu",
+      "rms": 0.03150831535458565,
+      "pitch": 1594.5736083984375
+    }
+  ],
+  "eos_2023_1": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "I'm a principal CWAR engineer. For eight years, I've been dedicated to the craft of building clean,",
+      "emotion": "neu",
+      "rms": 0.03235452249646187,
+      "pitch": 1639.8939208984375
+    },
+    {
+      "start": 5.82,
+      "end": 8.24,
+      "text": "scalable, and maintainable back-end systems.",
+      "emotion": "neu",
+      "rms": 0.027319371700286865,
+      "pitch": 1619.8935546875
+    },
+    {
+      "start": 9.1,
+      "end": 13.8,
+      "text": "My passion is taking a complex business problem and translating it into elegant code.",
+      "emotion": "neu",
+      "rms": 0.029013289138674736,
+      "pitch": 1585.354248046875
+    }
+  ],
+  "titan_2023_5": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Oh, oh god, they know. They know I'm a fraud. I'm not an architect.",
+      "emotion": "ang",
+      "rms": 0.042643602937459946,
+      "pitch": 1522.2830810546875
+    },
+    {
+      "start": 3.92,
+      "end": 8.2,
+      "text": "I'm a junior dev. I've only been there two years. I just wanted a better job.",
+      "emotion": "neu",
+      "rms": 0.022624235600233078,
+      "pitch": 1598.4742431640625
+    }
+  ],
+  "selene_2024_5": [
+    {
+      "start": 0.0,
+      "end": 4.38,
+      "text": "Oh god, he's asking more data questions. I only took a weekend workshop on this stuff.",
+      "emotion": "neu",
+      "rms": 0.027064215391874313,
+      "pitch": 1598.3203125
+    },
+    {
+      "start": 5.44,
+      "end": 9.2,
+      "text": "I don't know any of it. Just ask me about Rails, please. Just ask me about Rails.",
+      "emotion": "neu",
+      "rms": 0.030461443588137627,
+      "pitch": 1509.45263671875
+    }
+  ],
+  "selene_2024_4": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Could I code a solution for that now?",
+      "emotion": "neu",
+      "rms": 0.022282730787992477,
+      "pitch": 1572.904541015625
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Well, no. Not off the top of my head.",
+      "emotion": "ang",
+      "rms": 0.023746730759739876,
+      "pitch": 1604.721923828125
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "I typically work with a data scientist who handles that part.",
+      "emotion": "neu",
+      "rms": 0.022856347262859344,
+      "pitch": 1561.1468505859375
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "My role is more about the big picture and the Rails integration.",
+      "emotion": "neu",
+      "rms": 0.0314212292432785,
+      "pitch": 1627.6805419921875
+    }
+  ],
+  "titan_2023_4": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "I architect systems, not tiny functions.",
+      "emotion": "neu",
+      "rms": 0.034436631947755814,
+      "pitch": 1790.227294921875
+    },
+    {
+      "start": 3.02,
+      "end": 6.26,
+      "text": "Are you questioning my entire career over a trivial piece of code?",
+      "emotion": "neu",
+      "rms": 0.030160190537571907,
+      "pitch": 1685.199951171875
+    }
+  ],
+  "titan_2023_3": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "A custom hook? Seriously? This is a pointless memorization exercise. In a real environment,",
+      "emotion": "neu",
+      "rms": 0.027685122564435005,
+      "pitch": 1655.584716796875
+    },
+    {
+      "start": 6.28,
+      "end": 10.54,
+      "text": "my IDE writes this boilerplate for me. This is grunt work, and it's frankly insulting.",
+      "emotion": "neu",
+      "rms": 0.02556445077061653,
+      "pitch": 1563.814208984375
+    }
+  ],
+  "selene_2024_3": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "How would I handle class imbalance? That's a classic.",
+      "emotion": "neu",
+      "rms": 0.03266455605626106,
+      "pitch": 1453.291259765625
+    },
+    {
+      "start": 3.26,
+      "end": 6.72,
+      "text": "You'd use over-sampling techniques, like SMOTE.",
+      "emotion": "neu",
+      "rms": 0.023583751171827316,
+      "pitch": 1719.270751953125
+    },
+    {
+      "start": 7.48,
+      "end": 10.84,
+      "text": "Or you could use a different evaluation metric.",
+      "emotion": "neu",
+      "rms": 0.028347084298729897,
+      "pitch": 1673.925537109375
+    },
+    {
+      "start": 11.22,
+      "end": 13.3,
+      "text": "It's a standard problem with a standard solution.",
+      "emotion": "neu",
+      "rms": 0.03436284139752388,
+      "pitch": 1682.9566650390625
+    }
+  ],
+  "selene_2024_2": [
+    {
+      "start": 0.16,
+      "end": 4.4,
+      "text": "Let's talk modeling. Whether it's a classification or regression problem,",
+      "emotion": "neu",
+      "rms": 0.03476362302899361,
+      "pitch": 1646.569091796875
+    },
+    {
+      "start": 4.4,
+      "end": 9.12,
+      "text": "I'm comfortable deploying models using frameworks like TensorFlow or PyTorch.",
+      "emotion": "neu",
+      "rms": 0.028669163584709167,
+      "pitch": 1673.6595458984375
+    },
+    {
+      "start": 9.12,
+      "end": 15.92,
+      "text": "The entire pipeline, from ETL to inference, is in my wheelhouse.",
+      "emotion": "neu",
+      "rms": 0.024878783151507378,
+      "pitch": 1659.673095703125
+    }
+  ],
+  "titan_2023_2": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Ha, debate over the architecture? There was no debate. I made the right decisions.",
+      "emotion": "hap",
+      "rms": 0.03142784163355827,
+      "pitch": 1693.4530029296875
+    },
+    {
+      "start": 5.18,
+      "end": 8.04,
+      "text": "React was the only logical choice for scalability.",
+      "emotion": "neu",
+      "rms": 0.03534603863954544,
+      "pitch": 1733.2991943359375
+    },
+    {
+      "start": 8.9,
+      "end": 12.88,
+      "text": "Anyone who suggested otherwise simply didn't understand the problem.",
+      "emotion": "neu",
+      "rms": 0.031132295727729797,
+      "pitch": 1570.6505126953125
+    }
+  ],
+  "selene_2024_1": [
+    {
+      "start": 0.0,
+      "end": 3.58,
+      "text": "I'm a seasoned Ruby on Rails developer, but my real passion is data.",
+      "emotion": "neu",
+      "rms": 0.03550610691308975,
+      "pitch": 1651.24169921875
+    },
+    {
+      "start": 4.08,
+      "end": 9.0,
+      "text": "I'm proficient across the modern data stack, AI, machine learning, and big data.",
+      "emotion": "neu",
+      "rms": 0.030165869742631912,
+      "pitch": 1778.6224365234375
+    },
+    {
+      "start": 9.26,
+      "end": 11.1,
+      "text": "I'm ready to build your next predictive engine.",
+      "emotion": "neu",
+      "rms": 0.030689101666212082,
+      "pitch": 1849.5516357421875
+    }
+  ],
+  "titan_2023_1": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Let's be clear. For seven years, I was the front-end department.",
+      "emotion": "neu",
+      "rms": 0.032124586403369904,
+      "pitch": 1533.2872314453125
+    },
+    {
+      "start": 3.92,
+      "end": 5.62,
+      "text": "The title was Lead Architect.",
+      "emotion": "neu",
+      "rms": 0.03243374079465866,
+      "pitch": 1587.0263671875
+    },
+    {
+      "start": 6.3,
+      "end": 8.22,
+      "text": "But in reality, I was the visionary.",
+      "emotion": "hap",
+      "rms": 0.03281864523887634,
+      "pitch": 1679.813720703125
+    },
+    {
+      "start": 8.9,
+      "end": 12.84,
+      "text": "I designed and built our entire micro front-end platform from scratch.",
+      "emotion": "neu",
+      "rms": 0.03490164503455162,
+      "pitch": 1631.3887939453125
+    }
+  ],
+  "hyperion_2022_3": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "I, um, the lead dev actually wrote a library for that. I just used his transaction decorator.",
+      "emotion": "neu",
+      "rms": 0.03291034698486328,
+      "pitch": 1669.3905029296875
+    }
+  ],
+  "hyperion_2022_2": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "The most complex part? Taming celery. Anyone who's worked with it knows it's a beast.",
+      "emotion": "neu",
+      "rms": 0.02648935467004776,
+      "pitch": 1616.66748046875
+    },
+    {
+      "start": 5.46,
+      "end": 9.04,
+      "text": "I'm the one who figured out how to make it reliable for our background job processing.",
+      "emotion": "neu",
+      "rms": 0.03246011212468147,
+      "pitch": 1475.9566650390625
+    }
+  ],
+  "hyperion_2022_1": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "When I started, there was nothing but an idea. I built my backend from the very first line of code.",
+      "emotion": "neu",
+      "rms": 0.030994804576039314,
+      "pitch": 1620.334716796875
+    },
+    {
+      "start": 5.86,
+      "end": 12.06,
+      "text": "Every Django model, every Celery task, every database migration, that was all me. It's my creation.",
+      "emotion": "hap",
+      "rms": 0.03213070333003998,
+      "pitch": 1704.7396240234375
+    }
+  ],
+  "hyperion_2022_5": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "Look, fine. He designed the core architecture and the database schema. I wrote the code for it.",
+      "emotion": "neu",
+      "rms": 0.03236609697341919,
+      "pitch": 1694.2296142578125
+    },
+    {
+      "start": 5.28,
+      "end": 9.72,
+      "text": "I was the lead developer, not the architect. It was my code, but it was his system.",
+      "emotion": "neu",
+      "rms": 0.02880406565964222,
+      "pitch": 1597.4708251953125
+    }
+  ],
+  "hyperion_2022_4": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "I wrote all the business logic. He just provided some infrastructure shell. It was my implementation.",
+      "emotion": "neu",
+      "rms": 0.031130624935030937,
+      "pitch": 1776.47998046875
+    }
+  ]
+}

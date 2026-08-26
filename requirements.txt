@@ -1,0 +1,26 @@
+# Use PyTorch's official index for CPU-only builds ( remmove if using GPU )
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Core ML & Torch Packages
+numpy
+torch
+transformers
+torchaudio
+
+# LangChain & Google AI
+langchain
+langgraph
+pydantic
+uvicorn
+google-generativeai
+langchain-google-genai
+langchain-community
+langchain-core
+
+# Whisper & Audio Processing
+git+https://github.com/openai/whisper.git
+soundfile
+librosa
+ffmpeg-python
+setuptools-rust
+faster-whisper

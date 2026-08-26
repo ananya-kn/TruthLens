@@ -1,0 +1,5 @@
+rhea_2024_5 (annotated)
+
+I've read your company's tech blog on your cloud migration. You mentioned challenges
+with service discovery. I'm intensely curious about the specific trade-offs you debated
+when choosing between a full-service mesh and a simpler client-side library approach.

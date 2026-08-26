@@ -1,0 +1,6 @@
+atlas_2025_1 (annotated)
+
+I'm a seasoned DevOps engineer specializing in Kubernetes.
+For the past year, I've been in the trenches,
+managing our production clusters,
+personally responsible for our entire networking and security posture.

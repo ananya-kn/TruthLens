@@ -1,0 +1,5 @@
+selene_2024_1 (annotated)
+
+I'm a seasoned Ruby on Rails developer, but my real passion is data.
+I'm proficient across the modern data stack, AI, machine learning, and big data.
+I'm ready to build your next predictive engine.

@@ -1,0 +1,5 @@
+rhea_2024_1 (annotated)
+
+I live and breathe distributed systems.
+For the past six years, my obsession has been taming the chaos of asynchronous Java services.
+As a tech lead, my job is to make them not just work, but work with elegance and resilience.

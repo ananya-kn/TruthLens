@@ -1,0 +1,99 @@
+session,start,end,text,emotion,rms,pitch
+rhea_2024_1,0.16,2.96,I live and breathe distributed systems.,neu,0.025773145258426666,1703.5675048828125
+rhea_2024_1,2.96,8.94,"For the past six years, my obsession has been taming the chaos of asynchronous Java services.",neu,0.02467098832130432,1776.212890625
+rhea_2024_1,8.94,14.64,"As a tech lead, my job is to make them not just work, but work with elegance and resilience.",neu,0.03077973797917366,1596.0106201171875
+oceanus_2022_3,0.0,5.82,"As a manager of six, my job is to shield the team from distractions and empower them to do their best work.",neu,0.02851538360118866,1733.6534423828125
+oceanus_2022_3,6.32,12.08,"I handle the politics so they can handle the code, I trust them implicitly, and they trust me to have their backs.",neu,0.025026163086295128,1569.625
+atlas_2025_3,0.0,3.9,"I'd check the logs, then maybe the core DNS logs.",neu,0.03292328864336014,1575.50341796875
+atlas_2025_3,4.04,6.84,"I'd probably just restart the pod, that usually fixes things.",neu,0.028762906789779663,1668.5589599609375
+atlas_2025_2,0.0,0.84,Why Calico?,neu,0.02801475115120411,1563.158447265625
+atlas_2025_2,1.16,2.5,Ha! What else would you use?,ang,0.038315851241350174,1579.2235107421875
+atlas_2025_2,3.1,6.32,It's the only serious choice for network policy enforcement at scale.,neu,0.027561107650399208,1678.9736328125
+atlas_2025_2,6.76,10.38,I wrote all our policies from scratch to ensure total service isolation.,neu,0.033821895718574524,1802.520751953125
+oceanus_2022_2,0.0,4.44,Performance is everything. We fight for every byte of memory and every clock cycle.,neu,0.029839837923645973,1547.357177734375
+oceanus_2022_2,4.96,8.7,"That means custom memory allocators, kernel bypass networking,",neu,0.03076372668147087,1624.4654541015625
+oceanus_2022_2,9.14,12.6,"and a deep, almost obsessive understanding of CPU cache behavior.",neu,0.020221717655658722,1712.0093994140625
+rhea_2024_2,0.0,4.82,You asked about Kafka. Let me tell you about the 3am outage where a poison pill message,neu,0.03327566757798195,1555.3997802734375
+rhea_2024_2,4.82,11.02,"brought our entire payment system to its knees. It was a trial by fire, but by sunrise we had",neu,0.02692524902522564,1652.48681640625
+rhea_2024_2,11.02,15.62,"not only fixed it, but had re-architected the consumer logic with a dead letter Q",neu,0.029105305671691895,1673.7315673828125
+rhea_2024_2,15.62,20.18,to make sure it could never happen. Again. I love that struggle.,neu,0.014377860352396965,1404.5377197265625
+atlas_2025_1,0.0,3.06,I'm a seasoned DevOps engineer specializing in Kubernetes.,neu,0.0336231030523777,1699.564453125
+atlas_2025_1,3.78,5.78,"For the past year, I've been in the trenches,",neu,0.02879403904080391,1734.769775390625
+atlas_2025_1,6.4,7.72,"managing our production clusters,",neu,0.031553804874420166,1662.98486328125
+atlas_2025_1,8.26,11.94,personally responsible for our entire networking and security posture.,neu,0.029460763558745384,1627.619140625
+oceanus_2022_1,0.0,4.86,"Good morning. I'm a C++ developer and manager with over a decade of experience,",neu,0.034151341766119,1563.072998046875
+oceanus_2022_1,5.48,8.48,primarily in the pressure cooker of low-latency trading systems.,neu,0.03489512577652931,1682.06005859375
+oceanus_2022_1,9.06,12.66,My teams build software that measures its response time in nanoseconds.,neu,0.02894071862101555,1631.8076171875
+rhea_2024_3,0.0,3.26,"Item potency isn't just a buzzword for us, it's a religion.",neu,0.027697144076228142,1570.5816650390625
+rhea_2024_3,3.86,6.62,"We enforce it at the consumer level with keys and Redis,",neu,0.03846818953752518,1642.477294921875
+rhea_2024_3,6.86,8.92,but we also build it into our service APIs.,neu,0.030044471845030785,1473.0205078125
+rhea_2024_3,9.64,13.84,It's about building systems that expect to fail and can recover gracefully.,neu,0.026979750022292137,1607.2501220703125
+oceanus_2022_5,0.0,2.76,I'm interested in the technical challenges your team is facing.,neu,0.027818210422992706,1749.2135009765625
+oceanus_2022_5,3.5,7.76,"Specifically, are you dealing with issues related to inconsistent network jitter in",neu,0.0268750861287117,1649.7431640625
+oceanus_2022_5,7.76,10.92,"your cloud environment, and what strategies have you found most effective?",neu,0.02676510252058506,1606.9285888671875
+atlas_2025_5,0.0,5.68,"Okay, it was an internship, it was a summer internship, and I mostly just watched the senior engineers work.",neu,0.02831035852432251,1791.7088623046875
+atlas_2025_5,6.18,10.28,"I ran some scripts they gave me. I'm not a DevOps engineer, I just want to be one.",neu,0.03496413305401802,1635.6593017578125
+atlas_2025_4,0.0,4.96,The senior engineer usually handles the network debugging. I just deploy the YAML files he gives me.,neu,0.028164314106106758,1585.5362548828125
+oceanus_2022_4,0.0,7.54,"My design philosophy? Simple, fast, and correct. In that order. We prototype quickly, we measure",neu,0.027629494667053223,1689.055908203125
+oceanus_2022_4,7.54,13.04,"relentlessly, and we only add complexity when the data proves, beyond a shadow of a doubt,",neu,0.0314195416867733,1572.857177734375
+oceanus_2022_4,13.34,14.12,that it's necessary.,hap,0.017949441447854042,1302.3892822265625
+rhea_2024_4,0.16,5.2,"My proudest moment wasn't a feature I shipped. It was watching a junior engineer I mentored,",neu,0.031247450038790703,1703.2030029296875
+rhea_2024_4,5.2,9.92,"who was terrified of public speaking, give a department-wide presentation on the benefits",neu,0.028276946395635605,1647.9913330078125
+rhea_2024_4,9.92,15.92,"of our new microservices pattern. My job is to build great engineers, not just great software.",neu,0.02762249857187271,1639.5050048828125
+rhea_2024_5,0.08,4.56,I've read your company's tech blog on your cloud migration. You mentioned challenges,neu,0.032547060400247574,1669.9775390625
+rhea_2024_5,4.56,10.48,with service discovery. I'm intensely curious about the specific trade-offs you debated,neu,0.020321151241660118,1729.2152099609375
+rhea_2024_5,10.48,15.92,when choosing between a full-service mesh and a simpler client-side library approach.,neu,0.025930650532245636,1777.118896484375
+eos_2023_4,0.0,5.88,"Within my service, I chose Cosmos DB for its turnkey geo-replication, even though it was more expensive.",neu,0.029643436893820763,1717.4522705078125
+eos_2023_4,6.8,14.92,"I wrote a detailed design document justifying the cost, by showing it would save us three months of engineering effort, trying to build our own solution.",neu,0.030683524906635284,1648.3836669921875
+eos_2023_4,15.38,16.4,It's about trade-offs.,neu,0.021858520805835724,1542.575927734375
+eos_2023_5,0.0,4.46,"While I'm proud of my service-level design skills, my goal is to grow into that lead",neu,0.03338944539427757,1450.4796142578125
+eos_2023_5,4.46,8.52,architect role. I want to learn more about the challenges of designing the,neu,0.028836308047175407,1646.4781494140625
+eos_2023_5,8.52,11.48,"seams between the services, not just the services themselves.",neu,0.024164268746972084,1502.039794921875
+eos_2023_2,0.0,4.64,The most challenging problem was a race condition in our caching layer that only appeared under,neu,0.03623184189200401,1750.529541015625
+eos_2023_2,4.64,9.48,heavy load once a month. I spent a week instrumenting the code and finally caught it.,neu,0.02297879010438919,1673.65673828125
+eos_2023_2,9.92,14.34,"The fix was one line, but the hunt was exhilarating. That's the kind of work I love.",neu,0.028627578169107437,1527.439208984375
+eos_2023_3,0.0,4.04,"Ah, yes, regarding the architected the entire solution part on my resume.",neu,0.03580954298377037,1647.526611328125
+eos_2023_3,4.46,5.56,I should correct that wording.,neu,0.02594069018959999,1746.8460693359375
+eos_2023_3,7.16,8.36,Architected is too strong.,neu,0.03633026033639908,1809.8509521484375
+eos_2023_3,8.58,12.48,"I was the architect of a specific component, the data ingestion service,",neu,0.025550898164510727,1639.5362548828125
+eos_2023_3,12.98,15.4,within a larger architecture designed by our team lead.,neu,0.03150831535458565,1594.5736083984375
+eos_2023_1,0.0,5.28,"I'm a principal CWAR engineer. For eight years, I've been dedicated to the craft of building clean,",neu,0.03235452249646187,1639.8939208984375
+eos_2023_1,5.82,8.24,"scalable, and maintainable back-end systems.",neu,0.027319371700286865,1619.8935546875
+eos_2023_1,9.1,13.8,My passion is taking a complex business problem and translating it into elegant code.,neu,0.029013289138674736,1585.354248046875
+titan_2023_5,0.0,3.24,"Oh, oh god, they know. They know I'm a fraud. I'm not an architect.",ang,0.042643602937459946,1522.2830810546875
+titan_2023_5,3.92,8.2,I'm a junior dev. I've only been there two years. I just wanted a better job.,neu,0.022624235600233078,1598.4742431640625
+selene_2024_5,0.0,4.38,"Oh god, he's asking more data questions. I only took a weekend workshop on this stuff.",neu,0.027064215391874313,1598.3203125
+selene_2024_5,5.44,9.2,"I don't know any of it. Just ask me about Rails, please. Just ask me about Rails.",neu,0.030461443588137627,1509.45263671875
+selene_2024_4,0.0,2.0,Could I code a solution for that now?,neu,0.022282730787992477,1572.904541015625
+selene_2024_4,2.0,5.0,"Well, no. Not off the top of my head.",ang,0.023746730759739876,1604.721923828125
+selene_2024_4,5.0,8.0,I typically work with a data scientist who handles that part.,neu,0.022856347262859344,1561.1468505859375
+selene_2024_4,8.0,11.0,My role is more about the big picture and the Rails integration.,neu,0.0314212292432785,1627.6805419921875
+titan_2023_4,0.0,2.34,"I architect systems, not tiny functions.",neu,0.034436631947755814,1790.227294921875
+titan_2023_4,3.02,6.26,Are you questioning my entire career over a trivial piece of code?,neu,0.030160190537571907,1685.199951171875
+titan_2023_3,0.0,5.76,"A custom hook? Seriously? This is a pointless memorization exercise. In a real environment,",neu,0.027685122564435005,1655.584716796875
+titan_2023_3,6.28,10.54,"my IDE writes this boilerplate for me. This is grunt work, and it's frankly insulting.",neu,0.02556445077061653,1563.814208984375
+selene_2024_3,0.0,2.7,How would I handle class imbalance? That's a classic.,neu,0.03266455605626106,1453.291259765625
+selene_2024_3,3.26,6.72,"You'd use over-sampling techniques, like SMOTE.",neu,0.023583751171827316,1719.270751953125
+selene_2024_3,7.48,10.84,Or you could use a different evaluation metric.,neu,0.028347084298729897,1673.925537109375
+selene_2024_3,11.22,13.3,It's a standard problem with a standard solution.,neu,0.03436284139752388,1682.9566650390625
+selene_2024_2,0.16,4.4,"Let's talk modeling. Whether it's a classification or regression problem,",neu,0.03476362302899361,1646.569091796875
+selene_2024_2,4.4,9.12,I'm comfortable deploying models using frameworks like TensorFlow or PyTorch.,neu,0.028669163584709167,1673.6595458984375
+selene_2024_2,9.12,15.92,"The entire pipeline, from ETL to inference, is in my wheelhouse.",neu,0.024878783151507378,1659.673095703125
+titan_2023_2,0.0,4.5,"Ha, debate over the architecture? There was no debate. I made the right decisions.",hap,0.03142784163355827,1693.4530029296875
+titan_2023_2,5.18,8.04,React was the only logical choice for scalability.,neu,0.03534603863954544,1733.2991943359375
+titan_2023_2,8.9,12.88,Anyone who suggested otherwise simply didn't understand the problem.,neu,0.031132295727729797,1570.6505126953125
+selene_2024_1,0.0,3.58,"I'm a seasoned Ruby on Rails developer, but my real passion is data.",neu,0.03550610691308975,1651.24169921875
+selene_2024_1,4.08,9.0,"I'm proficient across the modern data stack, AI, machine learning, and big data.",neu,0.030165869742631912,1778.6224365234375
+selene_2024_1,9.26,11.1,I'm ready to build your next predictive engine.,neu,0.030689101666212082,1849.5516357421875
+titan_2023_1,0.0,3.28,"Let's be clear. For seven years, I was the front-end department.",neu,0.032124586403369904,1533.2872314453125
+titan_2023_1,3.92,5.62,The title was Lead Architect.,neu,0.03243374079465866,1587.0263671875
+titan_2023_1,6.3,8.22,"But in reality, I was the visionary.",hap,0.03281864523887634,1679.813720703125
+titan_2023_1,8.9,12.84,I designed and built our entire micro front-end platform from scratch.,neu,0.03490164503455162,1631.3887939453125
+hyperion_2022_3,0.0,5.28,"I, um, the lead dev actually wrote a library for that. I just used his transaction decorator.",neu,0.03291034698486328,1669.3905029296875
+hyperion_2022_2,0.0,5.0,The most complex part? Taming celery. Anyone who's worked with it knows it's a beast.,neu,0.02648935467004776,1616.66748046875
+hyperion_2022_2,5.46,9.04,I'm the one who figured out how to make it reliable for our background job processing.,neu,0.03246011212468147,1475.9566650390625
+hyperion_2022_1,0.0,5.22,"When I started, there was nothing but an idea. I built my backend from the very first line of code.",neu,0.030994804576039314,1620.334716796875
+hyperion_2022_1,5.86,12.06,"Every Django model, every Celery task, every database migration, that was all me. It's my creation.",hap,0.03213070333003998,1704.7396240234375
+hyperion_2022_5,0.0,4.88,"Look, fine. He designed the core architecture and the database schema. I wrote the code for it.",neu,0.03236609697341919,1694.2296142578125
+hyperion_2022_5,5.28,9.72,"I was the lead developer, not the architect. It was my code, but it was his system.",neu,0.02880406565964222,1597.4708251953125
+hyperion_2022_4,0.0,5.68,I wrote all the business logic. He just provided some infrastructure shell. It was my implementation.,neu,0.031130624935030937,1776.47998046875

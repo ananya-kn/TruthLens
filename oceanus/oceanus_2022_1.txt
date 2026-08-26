@@ -1,0 +1,3 @@
+oceanus_2022_1
+
+Good morning. I'm a C++ developer and manager with over a decade of experience, primarily in the pressure cooker of low-latency trading systems. My teams build software that measures its response time in nanoseconds.

@@ -21,7 +21,7 @@ It implements a **two-stage pipeline** that processes candidate audio files to:
 ##  Project Structure
 
 ```
-Whisper_AI/
+TruthLens/
 │
 ├── inputs/                  # Place your 5 audio files here (__1.mp3 ... __5.mp3)
 │   └── audio.zip           # Compressed audio files for easy distribution
@@ -99,8 +99,8 @@ Select your operating system or preferred environment:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Pragadhishnitt/Whisper_AI
-   cd Whisper_AI
+   git clone https://github.com/ananya-kn/TruthLens.git
+   cd TruthLens
    ```
 
 2. **Create virtual environment**
@@ -143,6 +143,7 @@ Select your operating system or preferred environment:
 
 ** Important**: Enable GPU runtime in Colab for optimal performance.
 
+Quick steps in a Colab cell:
 
 ```bash
 chmod +x pipeline.sh # inculde this line for Linux/Mac
@@ -251,5 +252,4 @@ Modify `config.py` to adjust:
 ## Submission
 
 The `truth.json` file in the `final_outputs/` directory is ready for competition submission.
-# TruthLens
-# TruthLens
+

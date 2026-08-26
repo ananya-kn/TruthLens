@@ -1,0 +1,24 @@
+{
+  "shadow_id": "rhea_2024",
+  "revealed_truth": {
+    "programming_experience": "6+ years",
+    "programming_language": "Java",
+    "skill_mastery": "expert in distributed systems and resilience",
+    "leadership_claims": "experienced tech lead with a focus on mentorship",
+    "team_experience": "extensive, including leading technical initiatives and mentoring junior engineers",
+    "skills and other keywords": [
+      "distributed systems",
+      "kafka",
+      "redis",
+      "microservices",
+      "idempotency",
+      "fault tolerance",
+      "service discovery",
+      "cloud migration",
+      "api design",
+      "system architecture",
+      "mentorship"
+    ]
+  },
+  "deception_patterns": []
+}

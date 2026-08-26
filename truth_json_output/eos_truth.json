@@ -1,0 +1,21 @@
+{
+  "shadow_id": "eos_2023",
+  "revealed_truth": {
+    "programming_experience": "8 years",
+    "programming_language": "not specified",
+    "skill_mastery": "experienced backend engineer in service-level design and debugging",
+    "leadership_claims": "aspiring lead architect, responsible for component-level architecture",
+    "team_experience": "collaborative team member working within a larger architecture led by a team lead",
+    "skills and other keywords": [
+      "back-end systems",
+      "caching layer",
+      "race conditions",
+      "Cosmos DB",
+      "geo-replication",
+      "data ingestion service",
+      "system design",
+      "trade-off analysis"
+    ]
+  },
+  "deception_patterns": []
+}

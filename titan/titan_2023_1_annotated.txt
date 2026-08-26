@@ -1,0 +1,6 @@
+titan_2023_1 (annotated)
+
+Let's be clear. For seven years, I was the front-end department.
+The title was Lead Architect.
+But in reality, I was the visionary.
+I designed and built our entire micro front-end platform from scratch.

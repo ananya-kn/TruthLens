@@ -1,0 +1,3 @@
+rhea_2024_2
+
+You asked about Kafka. Let me tell you about the 3am outage where a poison pill message brought our entire payment system to its knees. It was a trial by fire, but by sunrise we had not only fixed it, but had re-architected the consumer logic with a dead letter Q to make sure it could never happen. Again. I love that struggle.

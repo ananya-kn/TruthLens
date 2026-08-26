@@ -1,0 +1,4 @@
+titan_2023_3 (annotated)
+
+A custom hook? Seriously? This is a pointless memorization exercise. In a real environment,
+my IDE writes this boilerplate for me. This is grunt work, and it's frankly insulting.

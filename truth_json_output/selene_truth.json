@@ -1,0 +1,26 @@
+{
+  "shadow_id": "selene_2024",
+  "revealed_truth": {
+    "programming_experience": "seasoned Ruby developer",
+    "programming_language": "Ruby (Ruby on Rails)",
+    "skill_mastery": "proficient in Ruby on Rails backend integration; novice in data science and machine learning",
+    "leadership_claims": "none",
+    "team_experience": "works alongside data scientists focusing on web integration",
+    "skills and other keywords": [
+      "Ruby on Rails",
+      "Ruby",
+      "Data Science",
+      "Machine Learning",
+      "ETL"
+    ]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "skill_fabrication",
+      "contradictory_claims": [
+        "Proficient across modern data stack, AI, ML, big data, and deploying models using TensorFlow or PyTorch",
+        "Only took a weekend workshop on data science and does not know any of it"
+      ]
+    }
+  ]
+}

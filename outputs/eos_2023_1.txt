@@ -1,0 +1,3 @@
+eos_2023_1
+
+I'm a principal CWAR engineer. For eight years, I've been dedicated to the craft of building clean, scalable, and maintainable back-end systems. My passion is taking a complex business problem and translating it into elegant code.

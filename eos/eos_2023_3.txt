@@ -1,0 +1,3 @@
+eos_2023_3
+
+Ah, yes, regarding the architected the entire solution part on my resume. I should correct that wording. Architected is too strong. I was the architect of a specific component, the data ingestion service, within a larger architecture designed by our team lead.

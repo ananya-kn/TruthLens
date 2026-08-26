@@ -1,0 +1,5 @@
+rhea_2024_4 (annotated)
+
+My proudest moment wasn't a feature I shipped. It was watching a junior engineer I mentored,
+who was terrified of public speaking, give a department-wide presentation on the benefits
+of our new microservices pattern. My job is to build great engineers, not just great software.

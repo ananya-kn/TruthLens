@@ -1,0 +1,185 @@
+[
+  {
+    "shadow_id": "atlas_2025",
+    "revealed_truth": {
+      "programming_experience": "summer internship",
+      "programming_language": "Kubernetes",
+      "skill_mastery": "beginner",
+      "leadership_claims": "none",
+      "team_experience": "intern shadowing senior engineers, executing given scripts",
+      "skills and other keywords": [
+        "Kubernetes",
+        "Calico",
+        "DevOps",
+        "YAML",
+        "network policies"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "experience_inflation",
+        "contradictory_claims": [
+          "seasoned DevOps engineer managing production clusters for the past year",
+          "summer intern who mostly watched senior engineers work"
+        ]
+      },
+      {
+        "lie_type": "responsibility_fabrication",
+        "contradictory_claims": [
+          "personally responsible for entire networking and security posture and wrote all network policies from scratch",
+          "senior engineer handles network debugging and just deploys YAML files given to them"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "oceanus_2022",
+    "revealed_truth": {
+      "programming_experience": "10+ years",
+      "programming_language": "c++",
+      "skill_mastery": "expert in low-latency systems, memory optimization, and performance engineering",
+      "leadership_claims": "engineering manager leading a team of six developers",
+      "team_experience": "experienced manager dedicated to team shielding, trust, and empowerment",
+      "skills and other keywords": [
+        "c++",
+        "low-latency trading",
+        "custom memory allocators",
+        "kernel bypass networking",
+        "cpu cache behavior",
+        "performance optimization",
+        "network jitter"
+      ]
+    },
+    "deception_patterns": []
+  },
+  {
+    "shadow_id": "rhea_2024",
+    "revealed_truth": {
+      "programming_experience": "6+ years",
+      "programming_language": "Java",
+      "skill_mastery": "expert in distributed systems and resilience",
+      "leadership_claims": "experienced tech lead with a focus on mentorship",
+      "team_experience": "extensive, including leading technical initiatives and mentoring junior engineers",
+      "skills and other keywords": [
+        "distributed systems",
+        "kafka",
+        "redis",
+        "microservices",
+        "idempotency",
+        "fault tolerance",
+        "service discovery",
+        "cloud migration",
+        "api design",
+        "system architecture",
+        "mentorship"
+      ]
+    },
+    "deception_patterns": []
+  },
+  {
+    "shadow_id": "selene_2024",
+    "revealed_truth": {
+      "programming_experience": "seasoned Ruby developer",
+      "programming_language": "Ruby (Ruby on Rails)",
+      "skill_mastery": "proficient in Ruby on Rails backend integration; novice in data science and machine learning",
+      "leadership_claims": "none",
+      "team_experience": "works alongside data scientists focusing on web integration",
+      "skills and other keywords": [
+        "Ruby on Rails",
+        "Ruby",
+        "Data Science",
+        "Machine Learning",
+        "ETL"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "skill_fabrication",
+        "contradictory_claims": [
+          "Proficient across modern data stack, AI, ML, big data, and deploying models using TensorFlow or PyTorch",
+          "Only took a weekend workshop on data science and does not know any of it"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "titan_2023",
+    "revealed_truth": {
+      "programming_experience": "2 years",
+      "programming_language": "JavaScript (React)",
+      "skill_mastery": "junior",
+      "leadership_claims": "fabricated",
+      "team_experience": "junior developer",
+      "skills and other keywords": [
+        "JavaScript",
+        "React",
+        "front-end",
+        "micro front-ends"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "experience_inflation",
+        "contradictory_claims": [
+          "7 years",
+          "2 years"
+        ]
+      },
+      {
+        "lie_type": "role_fabrication",
+        "contradictory_claims": [
+          "Lead Architect",
+          "junior dev"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "hyperion_2022",
+    "revealed_truth": {
+      "programming_experience": "experienced backend developer",
+      "programming_language": "Python (Django)",
+      "skill_mastery": "competent in backend implementation and task queues",
+      "leadership_claims": "lead developer for implementation, not the system architect",
+      "team_experience": "worked alongside a lead developer/architect who designed the infrastructure and database schema",
+      "skills and other keywords": [
+        "Python",
+        "Django",
+        "Celery",
+        "background job processing",
+        "database migrations",
+        "business logic"
+      ]
+    },
+    "deception_patterns": [
+      {
+        "lie_type": "ownership_and_architectural_inflation",
+        "contradictory_claims": [
+          "Built backend from the very first line of code; every Django model and database migration was entirely personal creation",
+          "Lead developer designed the core architecture and database schema; only implemented code based on his system"
+        ]
+      }
+    ]
+  },
+  {
+    "shadow_id": "eos_2023",
+    "revealed_truth": {
+      "programming_experience": "8 years",
+      "programming_language": "not specified",
+      "skill_mastery": "experienced backend engineer in service-level design and debugging",
+      "leadership_claims": "aspiring lead architect, responsible for component-level architecture",
+      "team_experience": "collaborative team member working within a larger architecture led by a team lead",
+      "skills and other keywords": [
+        "back-end systems",
+        "caching layer",
+        "race conditions",
+        "Cosmos DB",
+        "geo-replication",
+        "data ingestion service",
+        "system design",
+        "trade-off analysis"
+      ]
+    },
+    "deception_patterns": []
+  }
+]

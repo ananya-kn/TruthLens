@@ -1,0 +1,33 @@
+{
+  "shadow_id": "atlas_2025",
+  "revealed_truth": {
+    "programming_experience": "summer internship",
+    "programming_language": "Kubernetes",
+    "skill_mastery": "beginner",
+    "leadership_claims": "none",
+    "team_experience": "intern shadowing senior engineers, executing given scripts",
+    "skills and other keywords": [
+      "Kubernetes",
+      "Calico",
+      "DevOps",
+      "YAML",
+      "network policies"
+    ]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "experience_inflation",
+      "contradictory_claims": [
+        "seasoned DevOps engineer managing production clusters for the past year",
+        "summer intern who mostly watched senior engineers work"
+      ]
+    },
+    {
+      "lie_type": "responsibility_fabrication",
+      "contradictory_claims": [
+        "personally responsible for entire networking and security posture and wrote all network policies from scratch",
+        "senior engineer handles network debugging and just deploys YAML files given to them"
+      ]
+    }
+  ]
+}

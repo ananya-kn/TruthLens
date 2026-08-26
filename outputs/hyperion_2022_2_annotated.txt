@@ -1,0 +1,4 @@
+hyperion_2022_2 (annotated)
+
+The most complex part? Taming celery. Anyone who's worked with it knows it's a beast.
+I'm the one who figured out how to make it reliable for our background job processing.

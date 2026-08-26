@@ -1,0 +1,32 @@
+{
+  "shadow_id": "titan_2023",
+  "revealed_truth": {
+    "programming_experience": "2 years",
+    "programming_language": "JavaScript (React)",
+    "skill_mastery": "junior",
+    "leadership_claims": "fabricated",
+    "team_experience": "junior developer",
+    "skills and other keywords": [
+      "JavaScript",
+      "React",
+      "front-end",
+      "micro front-ends"
+    ]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "experience_inflation",
+      "contradictory_claims": [
+        "7 years",
+        "2 years"
+      ]
+    },
+    {
+      "lie_type": "role_fabrication",
+      "contradictory_claims": [
+        "Lead Architect",
+        "junior dev"
+      ]
+    }
+  ]
+}

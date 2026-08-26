@@ -1,0 +1,6 @@
+selene_2024_4 (annotated)
+
+Could I code a solution for that now?
+Well, no. Not off the top of my head.
+I typically work with a data scientist who handles that part.
+My role is more about the big picture and the Rails integration.

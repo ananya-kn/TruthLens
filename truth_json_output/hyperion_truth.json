@@ -1,0 +1,27 @@
+{
+  "shadow_id": "hyperion_2022",
+  "revealed_truth": {
+    "programming_experience": "experienced backend developer",
+    "programming_language": "Python (Django)",
+    "skill_mastery": "competent in backend implementation and task queues",
+    "leadership_claims": "lead developer for implementation, not the system architect",
+    "team_experience": "worked alongside a lead developer/architect who designed the infrastructure and database schema",
+    "skills and other keywords": [
+      "Python",
+      "Django",
+      "Celery",
+      "background job processing",
+      "database migrations",
+      "business logic"
+    ]
+  },
+  "deception_patterns": [
+    {
+      "lie_type": "ownership_and_architectural_inflation",
+      "contradictory_claims": [
+        "Built backend from the very first line of code; every Django model and database migration was entirely personal creation",
+        "Lead developer designed the core architecture and database schema; only implemented code based on his system"
+      ]
+    }
+  ]
+}

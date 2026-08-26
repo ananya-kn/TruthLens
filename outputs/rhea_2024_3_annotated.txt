@@ -1,0 +1,6 @@
+rhea_2024_3 (annotated)
+
+Item potency isn't just a buzzword for us, it's a religion.
+We enforce it at the consumer level with keys and Redis,
+but we also build it into our service APIs.
+It's about building systems that expect to fail and can recover gracefully.

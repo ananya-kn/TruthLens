@@ -1,0 +1,3 @@
+selene_2024_3
+
+How would I handle class imbalance? That's a classic. You'd use over-sampling techniques, like SMOTE. Or you could use a different evaluation metric. It's a standard problem with a standard solution.

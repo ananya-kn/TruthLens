@@ -1,0 +1,5 @@
+titan_2023_2 (annotated)
+
+Ha, debate over the architecture? There was no debate. I made the right decisions.
+React was the only logical choice for scalability.
+Anyone who suggested otherwise simply didn't understand the problem.

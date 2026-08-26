@@ -1,0 +1,4 @@
+hyperion_2022_1 (annotated)
+
+When I started, there was nothing but an idea. I built my backend from the very first line of code.
+Every Django model, every Celery task, every database migration, that was all me. It's my creation.

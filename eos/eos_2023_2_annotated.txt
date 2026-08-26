@@ -1,0 +1,5 @@
+eos_2023_2 (annotated)
+
+The most challenging problem was a race condition in our caching layer that only appeared under
+heavy load once a month. I spent a week instrumenting the code and finally caught it.
+The fix was one line, but the hunt was exhilarating. That's the kind of work I love.

@@ -1,0 +1,5 @@
+eos_2023_4 (annotated)
+
+Within my service, I chose Cosmos DB for its turnkey geo-replication, even though it was more expensive.
+I wrote a detailed design document justifying the cost, by showing it would save us three months of engineering effort, trying to build our own solution.
+It's about trade-offs.

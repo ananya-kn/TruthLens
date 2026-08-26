@@ -1,0 +1,5 @@
+selene_2024_2 (annotated)
+
+Let's talk modeling. Whether it's a classification or regression problem,
+I'm comfortable deploying models using frameworks like TensorFlow or PyTorch.
+The entire pipeline, from ETL to inference, is in my wheelhouse.
