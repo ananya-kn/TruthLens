@@ -99,7 +99,7 @@ Select your operating system or preferred environment:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Pragadhishnitt/Whisper_AI
+   https://github.com/ananya-kn/TruthLens.git
    cd Whisper_AI
    ```
 
@@ -251,5 +251,4 @@ Modify `config.py` to adjust:
 ## Submission
 
 The `truth.json` file in the `final_outputs/` directory is ready for competition submission.
-# TruthLens
-# TruthLens
+
