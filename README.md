@@ -252,3 +252,5 @@ Modify `config.py` to adjust:
 
 The `truth.json` file in the `final_outputs/` directory is ready for competition submission.
 
+## Author 
+Ananya
