@@ -6,7 +6,7 @@
  
 ## Overview
  
-Truth Weaver takes raw audio testimonies from a candidate and reconstructs a reliable picture of what they actually did — separating fact from exaggeration or fabrication. It combines speech transcription, emotional and acoustic analysis, and LLM-driven contradiction detection into a single two-stage pipeline.
+Truth Lens takes raw audio testimonies from a candidate and reconstructs a reliable picture of what they actually did — separating fact from exaggeration or fabrication. It combines speech transcription, emotional and acoustic analysis, and LLM-driven contradiction detection into a single two-stage pipeline.
  
 Given five audio sessions per candidate, the system:
  
