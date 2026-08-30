@@ -16,7 +16,7 @@ Given five audio sessions per candidate, the system:
 4. Produces a structured, schema-validated verdict on what's most likely true
 ## Why This Approach
  
-Deception in spoken testimony rarely shows up as a single lie — it shows up as **drift**: a claim that shifts slightly between tellings, a confident tone that doesn't match a shaky detail, a term used once and never again. Truth Weaver is built to catch that drift by treating each candidate's testimony as a whole rather than five isolated clips.
+Deception in spoken testimony rarely shows up as a single lie — it shows up as **drift**: a claim that shifts slightly between tellings, a confident tone that doesn't match a shaky detail, a term used once and never again. Truth Lens is built to catch that drift by treating each candidate's testimony as a whole rather than five isolated clips.
  
 ## How It Works
  
